@@ -40,7 +40,7 @@ Before running the project, make sure you have:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/VoiceRecognition.git
+https://github.com/TaimaHamadneh/VoiceRecognition
 
 # Open the solution file in Visual Studio
 VoiceRecognition.sln
